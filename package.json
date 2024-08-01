@@ -2,9 +2,11 @@
   "name": "key_finder",
   "version": "1.0.0",
   "description": "Key finder app",
-  "main": "main.js",
+  "main": "key_finder.js.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "finder": "node key_finder.js",
+    "adder": "node key_adder.js"
   },
   "author": "Tesfalem Nigussie",
   "license": "ISC"
